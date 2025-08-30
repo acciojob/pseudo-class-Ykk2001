@@ -3,17 +3,16 @@
   font-size: 18px;
 }
 
-/* Insert text BEFORE the container content */
+/* Before Element */
 #container::before {
-  content: "Before Text - ";
+  content: "Before Element ";
   color: #f00;
   font-size: 20px;
 }
 
-/* Insert text AFTER the container content */
+/* After Element */
 #container::after {
-  content: " - After Text";
+  content: " After Element";
   color: #f00;
   font-size: 20px;
 }
-
