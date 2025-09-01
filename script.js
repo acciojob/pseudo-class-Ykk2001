@@ -1,6 +1,6 @@
 #container {
   margin: 20px;
-  font-size: 18px;
+  font-size: 18px;	
 }
 
 /* Before Element */
